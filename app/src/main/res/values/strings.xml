@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="finger">Lectura de huella</string>
+    <string name="name">Nombre</string>
+    <string name="man">Hombre</string>
+    <string name="woman">Mujer</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="welcome">Welcome</string>
+</resources>
